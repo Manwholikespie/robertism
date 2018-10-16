@@ -1,0 +1,19 @@
+{
+  "name": "robertism",
+  "version": "1.0.0",
+  "description": "The new and improved robertism website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "robertism",
+    "website"
+  ],
+  "author": "The Dark Lord Robert",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.16.4"
+  }
+}
